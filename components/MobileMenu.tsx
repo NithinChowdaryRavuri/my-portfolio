@@ -50,7 +50,9 @@ const MobileMenu = () => {
 
         <SheetFooter className="mt-5">
           <SheetClose asChild>
-            <Button type="submit">Close</Button>
+            <Button>
+              <a href="mailto:ravurinithinchowdary@gmail.com">Contact Me</a>
+            </Button>
           </SheetClose>
         </SheetFooter>
       </SheetContent>
